@@ -1,0 +1,32 @@
+.user-reg-form{
+    margin:5% 20%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .container1{
+   margin-left: 20%;
+    padding: 30px 30px 35px 30px;
+    width: 60%;
+    background: linear-gradient(#F7C8E0,#DFFFD8,#B4E4FF,#95BDFF);
+    opacity: 0.9;
+    
+  }
+  .container h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+  }
+  .container .btn{
+    width: 30%;
+    height: 40px;
+    margin-left: 35%;
+  }
+  .user-reg-form input{
+  margin: 8px 0;
+  border: none;
+  border-bottom: 2px solid gray;
+  background:linear-gradient(white,rgb(232, 241, 247))
+  }
+  .user-reg-form label{
+    font-size: 20px;
+  }
+  

@@ -1,0 +1,9 @@
+.container2{
+ 
+    margin-top: 5%;
+    padding: 50px;
+    background: linear-gradient(#ffffff,#02b902f3);
+    opacity: 0.9;
+    width: 60% !important;
+    border-radius: 20px;
+}
